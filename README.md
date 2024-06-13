@@ -97,20 +97,27 @@ This project implements a Sudoku game with both a Command Line Interface (CLI) a
 
 ### Contributors
 
-- Developed by [Your Name]
-- Contributions and improvements welcome! Fork the repository at [GitHub Repository URL].
+- Developed by Osama Bittar or Bittarov
+- Contributions and improvements welcome! Fork the repository at [[GitHub Repository URL]](https://github.com/bittarwork/Sudoku.git).
 
 ### License
 
-This project is licensed under the [License Name]. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Acknowledgments
 
-- [List any acknowledgments or libraries used, if applicable.]
+- The Sudoku solving algorithm is based on backtracking, a classic approach to solving constraint satisfaction problems.
+- The CLI interface leverages Python's standard input/output functionalities.
+- The GUI interface is built using Tkinter, Python's de facto standard GUI library.
+- Special thanks to OpenAI for providing foundational knowledge and tools for developing this project.
+
+### Libraries Used
+
+No external libraries were used in this project beyond Python's standard library.
 
 ### Contact
 
-For issues, questions, or suggestions, please contact [Your Email Address].
+For issues, questions, or suggestions, please contact bittar.work@gmail.com.
 
 ---
 
